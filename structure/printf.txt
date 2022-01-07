@@ -1,0 +1,24 @@
+//结构体
+//利用结构体指针进行打印数据
+//#include<stdio.h>
+//#include<string.h>
+//typedef struct stu
+//{
+//	char name[10];
+//	char tele[12];
+//	int  age;
+//}stu;
+//void print1(stu *x)
+//{
+//	printf("name %s\n", x->name);
+//	printf("tele %s\n", x->tele);
+//	printf("age  %d\n", x->age );
+//
+//};
+//int main()
+//{
+//	stu s = { "小孩","1231221312",16 };
+//	print1(&s);
+//	printf("%s", s.name);
+//	return 0;
+//}
